@@ -1,0 +1,28 @@
+h1{
+  background-color: black;
+  color: red;
+  font-size: 60px;
+  text-align: center;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  text-shadow: 5px 5px;
+}
+
+.texto-grande{
+  font-size: 50px;
+  font-style: oblique;
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#segundo-parrafo{
+  font-size: 10px;
+}
+
+p{
+  color: green;
+}
+
+.span-animado > span{
+  color: blue;
+}
