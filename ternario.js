@@ -24,5 +24,6 @@ console.log(saludo);
 
 
 
-/* AND &&, OR ||, NOT !, NULLISH COALASCING ?? */
+/* AND &&, OR ||, NOT ! */
+/*NULLISH COALASCING ?? */
 /* TERNARIO (CONDICION ? TRUE : FALSE)*/
